@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bigsv_afk_bot",
+    "username": "ATERNOOS_AFK_BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "bigserver.aternos.me",
-    "port": 59828,
+    "ip": "YRsurvival.aternos.me",
+    "port": 39308,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "biigxxaantareeeees"
     },
     "anti-afk": {
       "enabled": true,
